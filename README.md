@@ -156,6 +156,7 @@ I enjoy transforming raw data into business-ready insights through scalable engi
 # 🏆 Certifications
 
 * ✅ SQL Advanced Certification — HackerRank
+* ✅ Claude Certified Architect — Anthropic
 * ✅ Databricks Fundamentals — Databricks Academy
 * ✅ Build Data Pipelines with Lakeflow Spark Declarative Pipelines — Databricks
 * ✅ Reinvention With Agentic AI Learning — Accenture

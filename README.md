@@ -24,7 +24,7 @@
 
 # 🚀 About Me
 
-I am an impact-oriented Data Engineer with 2.6+ years of experience building scalable, cloud-native data platforms and analytics solutions.
+I am an impact-oriented Data Engineer with 2.7+ years of experience building scalable, cloud-native data platforms and analytics solutions.
 
 My expertise includes:
 
@@ -83,15 +83,11 @@ I enjoy transforming raw data into business-ready insights through scalable engi
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=snehaldattugalande&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehaldattugalande&theme=tokyonight" />
 </p>
 
 ---
@@ -151,4 +147,4 @@ I enjoy transforming raw data into business-ready insights through scalable engi
 
 ## ⭐ If you like my work, consider following my profile and starring repositories!
 
-⭐️ **From [Snehal_Galande_17](https://github.com/snehaldattugalande/Snehal_Galande17)**
+⭐️ **From [Snehal Galande](https://github.com/snehaldattugalande/snehaldattugalande)**

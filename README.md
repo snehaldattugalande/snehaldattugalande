@@ -94,7 +94,7 @@ I enjoy transforming raw data into business-ready insights through scalable engi
 
 # 🏆 Certifications
 
-
+* ✅ Microsoft Certified Azure Databricks Data Engineer Associate — Microsoft
 * ✅ Microsoft Certified Fabric Data Engineer Associate — Microsoft
 * ✅ Databricks Certified Associate Data Engineer — Databricks Academy
 * ✅ SQL Advanced Certification — HackerRank
